@@ -1,0 +1,44 @@
+.yellow{
+    background-color:yellow;
+}
+.pink{
+    background-color:pink;
+}
+.red{
+    background-color:rgba(255, 0, 0, 0.952);
+}
+.blue{
+    background-color:blue;
+}
+.greeny{
+    background-color:greenyellow;
+}
+.green{
+    background-color:green;
+}
+.orange{
+    background-color:orange;
+}
+.black{
+    background-color:black;
+}
+.white{
+    background-color:white;
+}
+.bl2{
+	background-color : #e8f4f4;
+	font-size: 20px;
+	color : black;
+}
+
+.bl1{
+	background-color : #c1dee3;
+	font-size: 20px;
+	color : black;
+}
+.light{
+ background-color:bisque;
+}
+.orange2{
+    background-color:rgba(255, 166, 0, 0.301);
+}

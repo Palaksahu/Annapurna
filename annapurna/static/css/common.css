@@ -1,0 +1,112 @@
+#row-a{
+    border : 1px solid rgb(214, 211, 211);
+    border-top:none;
+}
+#row-c,#row-e{
+    border : 1px solid rgb(214, 211, 211);
+    font-size : 25px;
+}
+#search{
+    width : 500px;
+    height:30px;
+}
+#srh{
+    height : 30px;
+}
+#ann{
+    margin-right: 59px;
+    height:50px;
+    width : 70px;
+}
+#acc-li{
+    margin-left : 252px;
+    margin-top : 10px;
+}
+#myacc-li{
+    margin-left:100px;
+    margin-top : 10px;
+}
+
+#cart{
+    height:40px;
+    width : 60px;
+   margin-top : 10px;
+}
+
+#drop{
+    height:45px;
+    width : 70px;
+   margin-top : 8px;
+   padding-top: 10px;
+   border-radius: 2px ;
+   margin-left:50px;
+}
+
+.h-w{
+    height: 200px;
+    width: 250px;
+}
+.no-border{
+border:none;
+}
+#row-b{
+margin-top: 30px;
+}
+.h{
+    height : 300px;
+    width : 370px;
+}
+#jumbo-box{
+    background : url(../images/img-16.jpg)no-repeat  0px  -465px;
+    background-size:cover;
+    height :660px;
+}
+#navi{
+  border: 2px solid blue;
+}
+a.nav-link:hover{
+    background-color: rgba(0, 81, 255, 0.842);
+
+    border : 1px solid white;
+    color: white;
+}
+/*#acc-li{
+    margin-left :px;
+}*/
+
+#ann2{
+ 
+    height:30px;
+    width : 50px;
+}
+.h-w3{
+    height : 25px;
+}
+.an{
+	background-color: rgba(0, 3, 5, 0.2);
+	font-family : Brush Script MT;
+}
+.an2{
+	background-color: rgba(0, 3, 5, 0.2);
+}
+
+a.ann:hover{
+	border : 1px dotted blue;
+}
+a.img.im:hover{
+	border : 2px solid red;
+}
+#error-box{
+	border :2px dotted red;
+	color:red;
+font-size: 25px;
+display : inline-block;
+background-color: #fff4fb ;
+}
+.n{
+	font-size:20px;
+}
+
+.t{
+     
+}
